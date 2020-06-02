@@ -1,12 +1,3 @@
-<?php 
-$fullname = "Shafi Akinropo";
-$id = "0001";
-$language = "PHP";
+<?php
 
-
- echo 'hello this is ' . $fullname. ' with HNGi7 ID ' .$id. ' using ' .$language . '<br>';
-
- 
-
-
- ?>
+ echo 'hello this is Shafi Akinropo with HNGi7 ID 001  using php' . '<br>';
