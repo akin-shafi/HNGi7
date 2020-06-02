@@ -1,3 +1,10 @@
 <?php
+    $fullname = "Shafi Akinropo";
+    $id = "HNG-05632";
+    $language = "PHP";
 
- echo 'hello this is Shafi Akinropo with HNGi7 ID 001  using php' . '<br>';
+
+echo("Hello World, this is " . $fullname. " with HNGi7 ID " .$id. " using " .$language . " for stage 2 task");
+
+?>
+
