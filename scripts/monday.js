@@ -1,1 +1,0 @@
-"Hello world this is Monday Amaka  with HNGi7 ID 002 using javascript <br>"
